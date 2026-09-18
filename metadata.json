@@ -1,0 +1,6 @@
+{
+  "name": "LaunchPilot AI",
+  "description": "From Idea to Income—Powered by AI. A platform to generate business plans, branding, marketing content, and financial forecasts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
